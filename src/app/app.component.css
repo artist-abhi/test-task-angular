@@ -1,0 +1,11 @@
+.custom-nav{
+    background-color: #AB95F9 !important;
+    .text{
+        color: white !important;
+    }
+}
+.main-content{
+    margin: auto;
+    width: 70%;
+    background-color: white;
+}
